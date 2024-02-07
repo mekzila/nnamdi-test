@@ -1,17 +1,21 @@
  body{
     margin-top: 0;
     padding: 0;
+    box-sizing: border-box;
     background-image: url(../images/Homepage.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
  }
 
 
-.homepage{
+/* .homepage{
     width: 1440px;
     height: 1024px;
     top: -513;
     left: -720;
     position: absolute;
-}
+} */
 
 .form-site{
     background-color: #ffffd2;
